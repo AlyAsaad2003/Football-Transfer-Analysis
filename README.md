@@ -21,7 +21,7 @@ CSV file containing the 250 transfer records with columns:
 - Name, Position, Age
 - Team_from, League_from
 - Team_to, League_to
-- Season, Transfer_fee, Market_value
+- Season, Market_value, Transfer_fee
 
 ### 🛠️ [SQL Queries](Sql_queries/top_transfers_queries.sql)
 All SQL queries used to generate the analysis in the PDF.
