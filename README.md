@@ -41,4 +41,10 @@ All SQL queries used to generate the analysis in the PDF.
 ## 📖 The Story Behind the Data
 > *"From the early 2000s to the end of the 2010s, world football witnessed a revolution..."*
 
+## 📁 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AlyAsaad2003/Football-Transfer-Analysis.git
+  
 Read the full story in [transfer_story.txt](transfer_story.txt)
