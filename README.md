@@ -43,5 +43,24 @@ All SQL queries used to generate the analysis in the PDF.
 
 ## 📖 The Story Behind the Data
 > *"From the early 2000s to the end of the 2010s, world football witnessed a revolution..."*
+
+## 👨‍💻 About the Author
+Hey, I’m Aly Asaad, a Data Analyst.
+I break down complex data topics into simple, practical content that actually helps you land a job.
+
+### 🚀 Stay Connected
+If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
+
+🎥 YouTube: [Aly Asaad | علي أسعد](https://www.youtube.com/@alyasaad2003)
+
+🧠 CodeForces: [Aly_Asaad](https://codeforces.com/profile/Aly_Asaad)
+
+💼 LinkedIn: [Aly Asaad](https://www.linkedin.com/in/aly-asaad-5331a2242/)
+
+📘 Facebook: [Aly Asaad](https://www.facebook.com/loka.kf2003)
+- Let’s connect professionally and grow your data career
+
+
+## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
  
 Read the full story in [transfer_story.txt](transfer_story.txt)
